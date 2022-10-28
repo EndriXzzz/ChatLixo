@@ -40,9 +40,6 @@ Landing Page Para Um Chatbot
 
 **Fique a vontade para fazer alterações.**
 
-## Site Online
-(https://react-chat-bot-lake.vercel.app/)
-
 ![image](https://user-images.githubusercontent.com/110235876/194065899-82f66aeb-8737-45d9-af48-844273f79937.png)
 
 
